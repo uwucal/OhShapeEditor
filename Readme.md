@@ -31,7 +31,7 @@ Maybe you want to start watching some nice tutorials using the editor from Youtu
 
 ## ℹ Level format
 
-OhShape Maps are in **.YML** format. Each **.YML** file includes a reference to a song file in **.OGG** format. OhShape includes a demo song ('Ice Flow' by [Kevin MacLeod]). You can open the demo .YML file to get an idea of how easy the format is. This example song is also inclueded in this repository, on the **examples** folder.
+OhShape Maps are in **.YML** format. Each **.YML** file includes a reference to a song file in **.OGG** format. OhShape includes a demo song ('Ice Flow' by [Kevin MacLeod]). You can open the demo .YML file to get an idea of how easy the format is. This example song is also included in this repository, on the **examples** folder.
 
 ## 🔧 Repository contents
 - /docs - Documentation and tutorials
